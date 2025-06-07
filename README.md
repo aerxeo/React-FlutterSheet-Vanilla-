@@ -15,7 +15,7 @@ A vanilla bottom flutter sheet component for React, Great for settings, menus, a
 
 ## 📸 Preview
 
-![FlutterSheet Preview](https://user-images.githubusercontent.com/your-image.gif) 
+![FlutterSheet Preview](https://raw.githubusercontent.com/aerxeo/React-FlutterSheet-Vanilla-/refs/heads/main/preview.gif) 
 
 ---
 
